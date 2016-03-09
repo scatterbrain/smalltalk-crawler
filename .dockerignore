@@ -1,0 +1,8 @@
+node_modules
+.git
+rel
+_build
+*.un~
+deps
+test
+devops
